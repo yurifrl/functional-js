@@ -3,6 +3,7 @@ const { compose, map, pick, prop, path, objOf } = require('ramda')
 const { Right } = require('monet')
 const { Future } = require('../lib/ftw')
 const { trace, log } = require('../lib/log')
+const { task } = require('folktale/concurrency/task')
 
 const app = ({ findUserItems, findItems }) => compose(
   map(map(trace)),

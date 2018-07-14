@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "fluture": "^8.0.2",
+    "flyd": "^0.2.8",
     "folktale": "^2.1.0",
     "monet": "^0.8.10",
     "ramda": "^0.25.0",
