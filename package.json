@@ -13,7 +13,9 @@
     "monet": "^0.8.10",
     "ramda": "^0.25.0",
     "ramda-adjunct": "^2.9.0",
-    "sanctuary": "^0.15.0"
+    "sanctuary": "^0.15.0",
+    "@mugos/ftw": "*",
+    "@mugos/log": "*"
   },
   "devDependencies": {
     "ava": "*"

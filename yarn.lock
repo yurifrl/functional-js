@@ -53,6 +53,20 @@
     pretty-ms "^0.2.1"
     text-table "^0.2.0"
 
+"@mugos/ftw@*":
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/@mugos/ftw/-/ftw-0.0.0.tgz#9a62bcbe94530948461768f71427c3ddce81dda3"
+  dependencies:
+    monet "^0.8.10"
+    ramda "^0.25.0"
+
+"@mugos/log@*":
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/@mugos/log/-/log-0.0.0.tgz#e41e92c56aea0f9d6e2bac84b4cd8a3c2ac74bb4"
+  dependencies:
+    monet "^0.8.10"
+    ramda "^0.25.0"
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
