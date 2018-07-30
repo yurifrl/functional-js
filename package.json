@@ -7,15 +7,16 @@
     "test": "ava"
   },
   "dependencies": {
+    "@mugos/ftw": "*",
+    "@mugos/log": "*",
+    "daggy": "^1.2.0",
     "fluture": "^8.0.2",
     "flyd": "^0.2.8",
     "folktale": "^2.1.0",
     "monet": "^0.8.10",
     "ramda": "^0.25.0",
     "ramda-adjunct": "^2.9.0",
-    "sanctuary": "^0.15.0",
-    "@mugos/ftw": "*",
-    "@mugos/log": "*"
+    "sanctuary": "^0.15.0"
   },
   "devDependencies": {
     "ava": "*"
