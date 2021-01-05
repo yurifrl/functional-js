@@ -9,7 +9,7 @@
   "dependencies": {
     "@mugos/ftw": "*",
     "@mugos/log": "*",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "daggy": "^1.2.0",
     "fluture": "*",
     "flyd": "^0.2.8",
